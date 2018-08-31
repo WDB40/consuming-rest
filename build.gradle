@@ -19,6 +19,10 @@ apply plugin: 'io.spring.dependency-management'
 bootJar {
     baseName = 'gs-consuming-rest'
     version = '0.1.0'
+
+    manifest {
+        attributes 'Main-Class' : 'hello.Application'
+    }
 }
 
 group = 'com.WDB40'
