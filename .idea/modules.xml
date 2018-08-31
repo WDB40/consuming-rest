@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/consuming-rest.iml" filepath="$PROJECT_DIR$/consuming-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consuming-rest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/consuming-rest_main.iml" group="consuming-rest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consuming-rest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/consuming-rest_test.iml" group="consuming-rest" />
     </modules>
   </component>
 </project>
